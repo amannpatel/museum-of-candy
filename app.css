@@ -52,6 +52,16 @@ body {
   transition: background 500ms;
 }
 
+.footer {
+  background: #e9cfd5;
+  color: #f498d8;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  padding-top: 20px;
+}
+
 @media (max-width: 1265px) {
   #headingGroup h1 {
     font-weight: 100;
